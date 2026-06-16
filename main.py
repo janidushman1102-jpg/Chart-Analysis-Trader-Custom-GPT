@@ -5,7 +5,7 @@ app = FastAPI(
     version="1.0.0",
     servers=[
         {
-            "url": https://chart-analysis-trader-custom-gpt-production.up.railway.app/openapi.json
+            "url": "https://chart-analysis-trader-custom-gpt-production.up.railway.app"
         }
     ]
 )
